@@ -1,1 +1,1 @@
-# Terrain-Generation-in-Unity
+# Terrain-Generation-in-OpenGL-using-Noise-functions.
